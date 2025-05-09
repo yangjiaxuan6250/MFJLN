@@ -92,13 +92,13 @@ Run the script then you can find the output visual results in the folder `result
 
 
 ## 🔧 Pre-trained Models and Results
-| Datasets |                                                                      Pre-trained Models                                                                      |                                  Results                                  |
-|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
-| Rain200L |      [Baidu Netdisk](https://pan.baidu.com/s/1RiwVA7z6pRiDcGn_MtS2hQ?pwd=1234) / [Github](results/derain/Rain200L/Net/Test/best/rain200L_best.pth.tar)       | [Baidu Netdisk](https://pan.baidu.com/s/1DefDy0nWxfALudmv4i-oTg?pwd=1234) |
-| Rain200H |      [Baidu Netdisk](https://pan.baidu.com/s/1vKEJYc9he3myGh_mizTXGg?pwd=1234) / [Github](results/derain/Rain200H/Net/Test/best/rain200h_best.pth.tar)       | [Baidu Netdisk](https://pan.baidu.com/s/13a6lRGg9N8o1fCF0-7cHsQ?pwd=1234) |
-| DID-Data |      [Baidu Netdisk](https://pan.baidu.com/s/1usmQ_GYFgYr0fWEh6NGrJQ?pwd=1234) / [Github](results/derain/DID/Net/Test/best/did_best.pth.tar)       |                                  Results                                  |
-| DDN-Data |      [Baidu Netdisk](https://pan.baidu.com/s/1jf1g0nRXiRyjG7rBTM2qlQ?pwd=1234) / [Github](results/derain/DDN/Net/Test/best/ddn_best.pth.tar)       |                                  Results                                  |
-| SPA-Data |      [Baidu Netdisk](https://pan.baidu.com/s/1VYIo3sNaONmEtNQv254L4w?pwd=1234) / [Github](results/derain/SPA/Net/Test/best/spa_best.pth.tar)       |                                  Results                                  |
+| Datasets |                                                                     Pre-trained Models                                                                      |                                  Results                                  |
+|:--------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| Rain200L |                                          [Baidu Netdisk](https://pan.baidu.com/s/1RiwVA7z6pRiDcGn_MtS2hQ?pwd=1234)                                          | [Baidu Netdisk](https://pan.baidu.com/s/1DefDy0nWxfALudmv4i-oTg?pwd=1234) |
+| Rain200H |                                         [Baidu Netdisk](https://pan.baidu.com/s/1vKEJYc9he3myGh_mizTXGg?pwd=1234)                                           | [Baidu Netdisk](https://pan.baidu.com/s/13a6lRGg9N8o1fCF0-7cHsQ?pwd=1234) |
+| DID-Data |           [Baidu Netdisk](https://pan.baidu.com/s/1usmQ_GYFgYr0fWEh6NGrJQ?pwd=1234)|                                  Results                                  |
+| DDN-Data |           [Baidu Netdisk](https://pan.baidu.com/s/1jf1g0nRXiRyjG7rBTM2qlQ?pwd=1234)  |                                  Results                                  |
+| SPA-Data |           [Baidu Netdisk](https://pan.baidu.com/s/1VYIo3sNaONmEtNQv254L4w?pwd=1234)  |                                  Results                                  |
 
 
 ## 🚨 Performance Evaluation
