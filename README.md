@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# MFJLN: Multi-Frequency Feature Joint Learning Network for Rain Removal
+# MFJLN: Multi-Frequency Feature Joint Learning Network for Rain Removal(TMM-2025)
 
 </div>
 
